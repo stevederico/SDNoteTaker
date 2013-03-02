@@ -2,9 +2,9 @@
 
 <table>
 <% @pages.each do |page| %>
-  <tr>
-    <td><%= link_to page.title, page %></td>
-  </tr>
+  <ul>
+    <li><%= link_to page.title, page %></li>
+  </ul>
 <% end %>
 </table>
 
