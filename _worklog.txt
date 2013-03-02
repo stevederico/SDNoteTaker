@@ -2,6 +2,10 @@
 Create Page Model
 Set Root to Page Index
 Added Redcarpet and Markdown Support
+only show title on index page
+Added Delete to show page
 
-- Add Markdown Support
+- heroku
 - Add Bootstrap
+- iPhone app?
+- AFIncremental Syncing?
