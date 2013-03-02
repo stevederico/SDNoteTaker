@@ -4,13 +4,17 @@ Set Root to Page Index
 Added Redcarpet and Markdown Support
 only show title on index page
 Added Delete to show page
+Added Heroku Site
 
-- heroku
 - Add Bootstrap
+- Add GFM TaskList support
+- point bike.bixbyapps.com
+- change rails defaults to postgres
+
+
+Maybe
 - iPhone app?
 - AFIncremental Syncing?
-
-
 - Horizontal layout?
 - edit in same page?
 
