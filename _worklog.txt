@@ -1,0 +1,7 @@
+3/2/13
+Create Page Model
+Set Root to Page Index
+Added Redcarpet and Markdown Support
+
+- Add Markdown Support
+- Add Bootstrap
