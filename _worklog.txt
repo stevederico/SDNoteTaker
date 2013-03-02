@@ -9,3 +9,8 @@ Added Delete to show page
 - Add Bootstrap
 - iPhone app?
 - AFIncremental Syncing?
+
+
+- Horizontal layout?
+- edit in same page?
+
