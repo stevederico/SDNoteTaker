@@ -4,8 +4,11 @@ Set Root to Page Index
 Added Redcarpet and Markdown Support
 only show title on index page
 Added Delete to show page
-Added Heroku Site
+Added Heroku Site http://floating-woodland-1246.herokuapp.com
 
+
+- Hide Title and Content Labels
+- Make Title H1
 - Add Bootstrap
 - Add GFM TaskList support
 - point bike.bixbyapps.com
