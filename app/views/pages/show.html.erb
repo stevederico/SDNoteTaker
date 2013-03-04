@@ -2,12 +2,10 @@
 <% markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML,
         :autolink => true,:lax_spacing => true, :fenced_code_blocks => true) %>
 <p>
-  <b>Title:</b>
-  <%= @page.title %>
+  <h1><%= @page.title %></h1>
 </p>
 
 <p>
-  <b>Content:</b>
   <%= raw markdown.render(@page.content) %>
 </p>
 
