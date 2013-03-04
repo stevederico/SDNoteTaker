@@ -3,7 +3,7 @@ class PagesController < ApplicationController
   # GET /pages.json
   def index
     @pages = Page.all.sort{ |a,b| a[:title] <=> b[:title]}
-
+    @welcome = Page.find_by_title("Welcome")
     respond_to do |format|
       format.html # index.html.erb
       format.json { render json: @pages }

@@ -1,6 +1,26 @@
 <div class="page-header">
-  <h1>Example page header <small>Subtext for header</small></h1>
+	<div class="row fluid">
+		<div class="span7">
+  		<h1>Welcome</h1>
+  	</div>
+  	<div class="span2 pull-right">
+
+  	</div>
+  </div>
 </div>
+
+<% if( @welcome !=nil) %>
+<p>
+	<p id="notice"><%= notice %></p>
+<% markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML,
+        :autolink => true,:lax_spacing => true, :fenced_code_blocks => true) %>
+<p>
+  <%= raw markdown.render(@welcome.content) %>
+</p>
+</p>
+<% end %>
+
+<h3> Pages</h3>
 <table>
 <% @pages.each do |page| %>
   <ul>

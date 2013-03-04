@@ -12,8 +12,9 @@ Blocked Search Crawlers
 Added ABC Sorting to Index
 Added Bootstrap
 Added Link to Home in Navbar
-- Add Centered Div like spots
 
+- Add Centered Div like spots
+- Add ACE Text Editor
 - Add GFM TaskList support
 
 - Add Back button back to show

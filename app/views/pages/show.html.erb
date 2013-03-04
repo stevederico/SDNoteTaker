@@ -1,13 +1,20 @@
-<p id="notice"><%= notice %></p>
+<div class="page-header">
+	<div class="row fluid">
+		<div class="span7">
+  		<h1><%= @page.title %> </h1>
+  	</div>
+  	<div class="span2 pull-right">
+  		<%= link_to 'Edit', edit_page_path(@page), class: "btn" %>
+  	</div>
+  </div>
+</div>
+
+<p>
+	<p id="notice"><%= notice %></p>
 <% markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML,
         :autolink => true,:lax_spacing => true, :fenced_code_blocks => true) %>
 <p>
-  <h1><%= @page.title %></h1>
-</p>
-
-<p>
   <%= raw markdown.render(@page.content) %>
 </p>
+</p>
 
- <%= link_to 'Destroy', @page, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-danger"  %> |
-<%= link_to 'Edit', edit_page_path(@page), class: "btn " %>
