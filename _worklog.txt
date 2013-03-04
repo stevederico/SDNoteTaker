@@ -9,11 +9,13 @@ Added bike.bixbyapps.com url
 Hid Title and Content Labels
 Make Title H1
 Blocked Search Crawlers
+Added ABC Sorting to Index
 
 - Add GFM TaskList support
 - Add Bootstrap
 - Add Back button back to show
-- Sort Index ABC
+
+- Add Parent Pages
 
 
 
