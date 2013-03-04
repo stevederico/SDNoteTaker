@@ -6,19 +6,21 @@ only show title on index page
 Added Delete to show page
 Added Heroku Site http://floating-woodland-1246.herokuapp.com
 Added bike.bixbyapps.com url
+Hid Title and Content Labels
+Make Title H1
+Blocked Search Crawlers
 
-
-
-
-- Hide Title and Content Labels
-- Add bike to pinger
-- Make Title H1
-- Add Bootstrap
 - Add GFM TaskList support
-- point bike.bixbyapps.com
-- change rails defaults to postgres
-- Move over content from evernote nad backpack
+- Add Bootstrap
+- Add Back button back to show
+- Sort Index ABC
 
+
+
+
+- Move over content from evernote nad backpack
+- Add bike to pinger
+- change rails defaults to postgres
 
 Maybe
 - iPhone app?
