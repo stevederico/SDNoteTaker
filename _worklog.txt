@@ -5,6 +5,9 @@ Added Redcarpet and Markdown Support
 only show title on index page
 Added Delete to show page
 Added Heroku Site http://floating-woodland-1246.herokuapp.com
+Added bike.bixbyapps.com url
+
+
 
 
 - Hide Title and Content Labels
@@ -14,6 +17,7 @@ Added Heroku Site http://floating-woodland-1246.herokuapp.com
 - Add GFM TaskList support
 - point bike.bixbyapps.com
 - change rails defaults to postgres
+- Move over content from evernote nad backpack
 
 
 Maybe
