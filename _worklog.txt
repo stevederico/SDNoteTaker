@@ -8,6 +8,7 @@ Added Heroku Site http://floating-woodland-1246.herokuapp.com
 
 
 - Hide Title and Content Labels
+- Add bike to pinger
 - Make Title H1
 - Add Bootstrap
 - Add GFM TaskList support
