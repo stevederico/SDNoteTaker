@@ -10,12 +10,18 @@ Hid Title and Content Labels
 Make Title H1
 Blocked Search Crawlers
 Added ABC Sorting to Index
+Added Bootstrap
+Added Link to Home in Navbar
+- Add Centered Div like spots
 
 - Add GFM TaskList support
-- Add Bootstrap
-- Add Back button back to show
 
+- Add Back button back to show
 - Add Parent Pages
+- Add Custom Name to App
+
+
+Set rails defaults to no sccss, no coffe, and postgres
 
 
 
