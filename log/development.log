@@ -35746,3 +35746,1425 @@ Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
 
 Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-13 23:49:42 -0700
 Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/4/edit" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Processing by PagesController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "4"]]
+  Rendered pages/_form.html.erb (3.4ms)
+  Rendered pages/edit.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 24ms (Views: 22.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:47 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:48 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:48 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:12:48 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ace/theme-dawn.js" for 127.0.0.1 at 2013-03-14 10:12:48 -0700
+Served asset /ace/theme-dawn.js - 304 Not Modified (0ms)
+
+
+Started PUT "/pages/4" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Processing by PagesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eu90m9yuDTwfqRtSKZnBiG6+f/S0uV4X1pLWzH7P+k8=", "page"=>{"title"=>"Quotes", "content"=>"###Quotes\r\n* If you aren’t embarrassed when you launch it you waited too long. – PG\r\n* Live this year like it’s your last – Steve Derico\r\n* Done is better than perfect - Mark Zuckerburg\r\n* “Real Artist Ship” – Steve Jobs\r\n"}, "commit"=>"Update", "id"=>"4"}
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "4"]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.3ms)[0m  [1mUPDATE "pages" SET "content" = '###Quotes
+* If you aren’t embarrassed when you launch it you waited too long. – PG
+* Live this year like it’s your last – Steve Derico
+* Done is better than perfect - Mark Zuckerburg
+* “Real Artist Ship” – Steve Jobs
+', "updated_at" = '2013-03-14 17:13:13.185100' WHERE "pages"."id" = 4[0m
+  [1m[35m (0.5ms)[0m  COMMIT
+Redirected to http://localhost:3000/pages/4
+Completed 302 Found in 10ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/pages/4" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "4"]]
+  Rendered pages/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 17ms (Views: 13.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:13 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/4/edit" for 127.0.0.1 at 2013-03-14 10:13:16 -0700
+Processing by PagesController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[35mPage Load (0.2ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "4"]]
+  Rendered pages/_form.html.erb (1.2ms)
+  Rendered pages/edit.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:17 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ace/theme-dawn.js" for 127.0.0.1 at 2013-03-14 10:13:18 -0700
+Served asset /ace/theme-dawn.js - 304 Not Modified (0ms)
+
+
+Started PUT "/pages/4" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Processing by PagesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eu90m9yuDTwfqRtSKZnBiG6+f/S0uV4X1pLWzH7P+k8=", "page"=>{"title"=>"Quotes", "content"=>"###Quotes\r\n* If you aren’t embarrassed when you launch it you waited too long. – PG\r\n* Live this year like it’s your last – Steve Derico\r\n* Done is better than perfect - Mark Zuckerburg\r\n* Real Artist Ship – Steve Jobs\r\n"}, "commit"=>"Update", "id"=>"4"}
+  [1m[36mPage Load (1.1ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "4"]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36m (0.4ms)[0m  [1mUPDATE "pages" SET "content" = '###Quotes
+* If you aren’t embarrassed when you launch it you waited too long. – PG
+* Live this year like it’s your last – Steve Derico
+* Done is better than perfect - Mark Zuckerburg
+* Real Artist Ship – Steve Jobs
+', "updated_at" = '2013-03-14 17:13:24.108562' WHERE "pages"."id" = 4[0m
+  [1m[35m (2.4ms)[0m  COMMIT
+Redirected to http://localhost:3000/pages/4
+Completed 302 Found in 7ms (ActiveRecord: 4.0ms)
+
+
+Started GET "/pages/4" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "4"]]
+  Rendered pages/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:24 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Processing by PagesController#index as HTML
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" 
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 35ms (Views: 33.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:26 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:27 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+  Rendered pages/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 13ms (Views: 11.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:31 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:13:32 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3/edit" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Processing by PagesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  Rendered pages/_form.html.erb (1.2ms)
+  Rendered pages/edit.html.erb within layouts/application (3.2ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ace/theme-dawn.js" for 127.0.0.1 at 2013-03-14 10:14:21 -0700
+Served asset /ace/theme-dawn.js - 304 Not Modified (0ms)
+
+
+Started PUT "/pages/3" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Processing by PagesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eu90m9yuDTwfqRtSKZnBiG6+f/S0uV4X1pLWzH7P+k8=", "page"=>{"title"=>"Sales Process", "content"=>"## Hierarchy\r\n\r\n* Sales Captain\r\n    * Trains Sales Interns\r\n    * Cold Call Script\r\n    * Reports to Steve\r\n    * Calls on Premier Accounts\r\n    * Generates Lead Lists\r\n * Sales Rep\r\n    * Cold Calling\r\n    * Cold Emailing\r\n    * Booking Appointments\r\n    \r\n## Qualification\r\n* Do you have a mobile app?\r\n* What is the current status of the app?\r\n* What is the timing for this project?\r\n* Do you have budget?\r\n* Plan to Fix current problem?\r\n* Have you seen XYZ from this compeitior?\r\n* What challenges are you facing?\r\n* What can't people do in your app that you wish they could do?\r\n\r\n## Notes\r\n* 80% of People make decisions to move away from problems.\r\n* Converstation should be 80% them talking 20% Sales Rep\r\n* Don't jump right on the problems after they explain them\r\n* Ask what it would be worth to you, if you could...\r\n* Ask Questions you know the answers to, lead them to say it instead of telling them.\r\n   * i.e. Are you seeing bounces on your mobile app? What would it be worth if that convertion rate doubled?\r\n    * Learn about their problems, then present solutions\r\n \r\n## Rules \r\n* Don't blindly push solutions, listen first.\r\n* Don't price quote to provide timelines over the phone.\r\n* Don't guess at things you don't know, ask them if you can follow up\r\n* If they ask techinical questions pass off to Steve or ask to circle back\r\n* Read Book of Knowledge\r\n\r\n## Resources\r\n* Testimonials\r\n* Case Studies\r\n* Data on HTML5 vs Native\r\n* One Sheet\r\n* Big Book of Knowledge\r\n\r\n## Cold Call Script \r\n\r\n* Hello, I'm NAME from Bixby Apps. We build apps for brands like BMW, Lenovo, and Salesforce. Are you the person in charge of mobile apps for COMPANY?\r\n    * NO\r\n       * Who is the best person to chat with?\r\n    * YES\r\n       * How are your apps working?\r\n          * BAD\r\n             1. What challenges are you facing?\r\n             * Do you have a budget for mobile?\r\n             * Are you free for a Chat DAY at TIME? \r\n          * GOOD\r\n             1. What would help your business?  \r\n             * Who built it?\r\n             * Have you seen the following Feedback?\r\n          * DON'T HAVE ONE\r\n             * Do you have any plans for an app?\r\n                   * NO\r\n                      * Thank you, I will follow up with some case studies.    \r\n                   * YES\r\n                      1. Could you tell me more?\r\n                      * What is the timing for this app?\r\n                      * What is the budget?\r\n                      * Are you free for a chat DAY at TIME?\r\n      \r\n\r\n## Things they probably don't have/know\r\n* Analytics\r\n* A/B Testing\r\n* Crash Reporting\r\n* App Store Ratings\r\n\r\n## Potential Client Queries & Industries\r\n* Fortune 500 companies with 2 start apps\r\n* Fortune 500 comapnies with HTML5 Apps\r\n* Inc 1000 Companies\r\n* Airlines Companies (Passbook)\r\n* Private Jet Charters\r\n* Beer Companies\r\n* Mobile in Title\r\n* Casinos\r\n* Biz Dev\r\n* Marketing Managers\r\n\r\n## Emails\r\n1. I hope you're having a great day, I wanted to verify I have the correct contact. Are you the person in charge of the mobile app development efforts for Coca-Cola?\r\n2. My name is Steve Derico, I am the founder of Bixby Apps. We are a mobile app development company here in San Francisco. I would love to chat with you about Coke's mobile plans. Are you free Friday at 11am Pacific?"}, "commit"=>"Update", "id"=>"3"}
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.9ms)[0m  UPDATE "pages" SET "content" = '## Hierarchy
+
+* Sales Captain
+ * Trains Sales Interns
+ * Cold Call Script
+ * Reports to Steve
+ * Calls on Premier Accounts
+ * Generates Lead Lists
+ * Sales Rep
+ * Cold Calling
+ * Cold Emailing
+ * Booking Appointments
+ 
+## Qualification
+* Do you have a mobile app?
+* What is the current status of the app?
+* What is the timing for this project?
+* Do you have budget?
+* Plan to Fix current problem?
+* Have you seen XYZ from this compeitior?
+* What challenges are you facing?
+* What can''t people do in your app that you wish they could do?
+
+## Notes
+* 80% of People make decisions to move away from problems.
+* Converstation should be 80% them talking 20% Sales Rep
+* Don''t jump right on the problems after they explain them
+* Ask what it would be worth to you, if you could...
+* Ask Questions you know the answers to, lead them to say it instead of telling them.
+ * i.e. Are you seeing bounces on your mobile app? What would it be worth if that convertion rate doubled?
+ * Learn about their problems, then present solutions
+ 
+## Rules 
+* Don''t blindly push solutions, listen first.
+* Don''t price quote to provide timelines over the phone.
+* Don''t guess at things you don''t know, ask them if you can follow up
+* If they ask techinical questions pass off to Steve or ask to circle back
+* Read Book of Knowledge
+
+## Resources
+* Testimonials
+* Case Studies
+* Data on HTML5 vs Native
+* One Sheet
+* Big Book of Knowledge
+
+## Cold Call Script 
+
+* Hello, I''m NAME from Bixby Apps. We build apps for brands like BMW, Lenovo, and Salesforce. Are you the person in charge of mobile apps for COMPANY?
+ * NO
+ * Who is the best person to chat with?
+ * YES
+ * How are your apps working?
+ * BAD
+ 1. What challenges are you facing?
+ * Do you have a budget for mobile?
+ * Are you free for a Chat DAY at TIME? 
+ * GOOD
+ 1. What would help your business? 
+ * Who built it?
+ * Have you seen the following Feedback?
+ * DON''T HAVE ONE
+ * Do you have any plans for an app?
+ * NO
+ * Thank you, I will follow up with some case studies. 
+ * YES
+ 1. Could you tell me more?
+ * What is the timing for this app?
+ * What is the budget?
+ * Are you free for a chat DAY at TIME?
+ 
+
+## Things they probably don''t have/know
+* Analytics
+* A/B Testing
+* Crash Reporting
+* App Store Ratings
+
+## Potential Client Queries & Industries
+* Fortune 500 companies with 2 start apps
+* Fortune 500 comapnies with HTML5 Apps
+* Inc 1000 Companies
+* Airlines Companies (Passbook)
+* Private Jet Charters
+* Beer Companies
+* Mobile in Title
+* Casinos
+* Biz Dev
+* Marketing Managers
+
+## Emails
+1. I hope you''re having a great day, I wanted to verify I have the correct contact. Are you the person in charge of the mobile app development efforts for Coca-Cola?
+2. My name is Steve Derico, I am the founder of Bixby Apps. We are a mobile app development company here in San Francisco. I would love to chat with you about Coke''s mobile plans. Are you free Friday at 11am Pacific?', "updated_at" = '2013-03-14 17:14:25.603003' WHERE "pages"."id" = 3
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/pages/3
+Completed 302 Found in 6ms (ActiveRecord: 1.8ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+  Rendered pages/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (68ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:25 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3/edit" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Processing by PagesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPage Load (0.5ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  Rendered pages/_form.html.erb (1.4ms)
+  Rendered pages/edit.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 20ms (Views: 16.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ace/theme-dawn.js" for 127.0.0.1 at 2013-03-14 10:14:29 -0700
+Served asset /ace/theme-dawn.js - 304 Not Modified (0ms)
+
+
+Started PUT "/pages/3" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Processing by PagesController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eu90m9yuDTwfqRtSKZnBiG6+f/S0uV4X1pLWzH7P+k8=", "page"=>{"title"=>"Sales Process", "content"=>"## Hierarchy\r\n\r\n* Sales Captain\r\n    * Trains Sales Interns\r\n    * Cold Call Script\r\n    * Reports to Steve\r\n    * Calls on Premier Accounts\r\n    * Generates Lead Lists\r\n * Sales Rep\r\n    * Cold Calling\r\n    * Cold Emailing\r\n    * Booking Appointments\r\n    \r\n### Qualification\r\n* Do you have a mobile app?\r\n* What is the current status of the app?\r\n* What is the timing for this project?\r\n* Do you have budget?\r\n* Plan to Fix current problem?\r\n* Have you seen XYZ from this compeitior?\r\n* What challenges are you facing?\r\n* What can't people do in your app that you wish they could do?\r\n\r\n## Notes\r\n* 80% of People make decisions to move away from problems.\r\n* Converstation should be 80% them talking 20% Sales Rep\r\n* Don't jump right on the problems after they explain them\r\n* Ask what it would be worth to you, if you could...\r\n* Ask Questions you know the answers to, lead them to say it instead of telling them.\r\n   * i.e. Are you seeing bounces on your mobile app? What would it be worth if that convertion rate doubled?\r\n    * Learn about their problems, then present solutions\r\n \r\n## Rules \r\n* Don't blindly push solutions, listen first.\r\n* Don't price quote to provide timelines over the phone.\r\n* Don't guess at things you don't know, ask them if you can follow up\r\n* If they ask techinical questions pass off to Steve or ask to circle back\r\n* Read Book of Knowledge\r\n\r\n## Resources\r\n* Testimonials\r\n* Case Studies\r\n* Data on HTML5 vs Native\r\n* One Sheet\r\n* Big Book of Knowledge\r\n\r\n## Cold Call Script \r\n\r\n* Hello, I'm NAME from Bixby Apps. We build apps for brands like BMW, Lenovo, and Salesforce. Are you the person in charge of mobile apps for COMPANY?\r\n    * NO\r\n       * Who is the best person to chat with?\r\n    * YES\r\n       * How are your apps working?\r\n          * BAD\r\n             1. What challenges are you facing?\r\n             * Do you have a budget for mobile?\r\n             * Are you free for a Chat DAY at TIME? \r\n          * GOOD\r\n             1. What would help your business?  \r\n             * Who built it?\r\n             * Have you seen the following Feedback?\r\n          * DON'T HAVE ONE\r\n             * Do you have any plans for an app?\r\n                   * NO\r\n                      * Thank you, I will follow up with some case studies.    \r\n                   * YES\r\n                      1. Could you tell me more?\r\n                      * What is the timing for this app?\r\n                      * What is the budget?\r\n                      * Are you free for a chat DAY at TIME?\r\n      \r\n\r\n## Things they probably don't have/know\r\n* Analytics\r\n* A/B Testing\r\n* Crash Reporting\r\n* App Store Ratings\r\n\r\n## Potential Client Queries & Industries\r\n* Fortune 500 companies with 2 start apps\r\n* Fortune 500 comapnies with HTML5 Apps\r\n* Inc 1000 Companies\r\n* Airlines Companies (Passbook)\r\n* Private Jet Charters\r\n* Beer Companies\r\n* Mobile in Title\r\n* Casinos\r\n* Biz Dev\r\n* Marketing Managers\r\n\r\n## Emails\r\n1. I hope you're having a great day, I wanted to verify I have the correct contact. Are you the person in charge of the mobile app development efforts for Coca-Cola?\r\n2. My name is Steve Derico, I am the founder of Bixby Apps. We are a mobile app development company here in San Francisco. I would love to chat with you about Coke's mobile plans. Are you free Friday at 11am Pacific?"}, "commit"=>"Update", "id"=>"3"}
+  [1m[35mPage Load (0.9ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (1.3ms)[0m  UPDATE "pages" SET "content" = '## Hierarchy
+
+* Sales Captain
+ * Trains Sales Interns
+ * Cold Call Script
+ * Reports to Steve
+ * Calls on Premier Accounts
+ * Generates Lead Lists
+ * Sales Rep
+ * Cold Calling
+ * Cold Emailing
+ * Booking Appointments
+ 
+### Qualification
+* Do you have a mobile app?
+* What is the current status of the app?
+* What is the timing for this project?
+* Do you have budget?
+* Plan to Fix current problem?
+* Have you seen XYZ from this compeitior?
+* What challenges are you facing?
+* What can''t people do in your app that you wish they could do?
+
+## Notes
+* 80% of People make decisions to move away from problems.
+* Converstation should be 80% them talking 20% Sales Rep
+* Don''t jump right on the problems after they explain them
+* Ask what it would be worth to you, if you could...
+* Ask Questions you know the answers to, lead them to say it instead of telling them.
+ * i.e. Are you seeing bounces on your mobile app? What would it be worth if that convertion rate doubled?
+ * Learn about their problems, then present solutions
+ 
+## Rules 
+* Don''t blindly push solutions, listen first.
+* Don''t price quote to provide timelines over the phone.
+* Don''t guess at things you don''t know, ask them if you can follow up
+* If they ask techinical questions pass off to Steve or ask to circle back
+* Read Book of Knowledge
+
+## Resources
+* Testimonials
+* Case Studies
+* Data on HTML5 vs Native
+* One Sheet
+* Big Book of Knowledge
+
+## Cold Call Script 
+
+* Hello, I''m NAME from Bixby Apps. We build apps for brands like BMW, Lenovo, and Salesforce. Are you the person in charge of mobile apps for COMPANY?
+ * NO
+ * Who is the best person to chat with?
+ * YES
+ * How are your apps working?
+ * BAD
+ 1. What challenges are you facing?
+ * Do you have a budget for mobile?
+ * Are you free for a Chat DAY at TIME? 
+ * GOOD
+ 1. What would help your business? 
+ * Who built it?
+ * Have you seen the following Feedback?
+ * DON''T HAVE ONE
+ * Do you have any plans for an app?
+ * NO
+ * Thank you, I will follow up with some case studies. 
+ * YES
+ 1. Could you tell me more?
+ * What is the timing for this app?
+ * What is the budget?
+ * Are you free for a chat DAY at TIME?
+ 
+
+## Things they probably don''t have/know
+* Analytics
+* A/B Testing
+* Crash Reporting
+* App Store Ratings
+
+## Potential Client Queries & Industries
+* Fortune 500 companies with 2 start apps
+* Fortune 500 comapnies with HTML5 Apps
+* Inc 1000 Companies
+* Airlines Companies (Passbook)
+* Private Jet Charters
+* Beer Companies
+* Mobile in Title
+* Casinos
+* Biz Dev
+* Marketing Managers
+
+## Emails
+1. I hope you''re having a great day, I wanted to verify I have the correct contact. Are you the person in charge of the mobile app development efforts for Coca-Cola?
+2. My name is Steve Derico, I am the founder of Bixby Apps. We are a mobile app development company here in San Francisco. I would love to chat with you about Coke''s mobile plans. Are you free Friday at 11am Pacific?', "updated_at" = '2013-03-14 17:14:32.775722' WHERE "pages"."id" = 3
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/pages/3
+Completed 302 Found in 9ms (ActiveRecord: 2.7ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mPage Load (0.2ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+  Rendered pages/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /twitter/bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 10:14:32 -0700
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 11:32:31 -0700
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (1.3ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (1.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 20ms (Views: 15.3ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 12:33:10 -0700
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 20ms (Views: 11.4ms | ActiveRecord: 6.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 13:52:56 -0700
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.5ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 21ms (Views: 14.1ms | ActiveRecord: 5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 15:17:17 -0700
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 27ms (Views: 21.1ms | ActiveRecord: 4.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 16:18:22 -0700
+Connecting to database specified by database.yml
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.7ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 183ms (Views: 120.3ms | ActiveRecord: 8.5ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter-bootstrap-static/bootstrap.css - 200 OK (7ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /bootstrap_and_overrides.css - 200 OK (5ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /pages.css - 200 OK (3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /scaffolds.css - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /jquery.js - 200 OK (10ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (6ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-affix.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (2ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /bootstrap.js - 200 OK (1ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /twitter/bootstrap.js - 200 OK (14ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-14 16:18:23 -0700
+Served asset /pages.js - 200 OK (1ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-14 16:18:29 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPage Load (1.9ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  Rendered pages/show.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 71ms (Views: 67.3ms | ActiveRecord: 2.5ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 16:18:29 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3/edit" for 127.0.0.1 at 2013-03-14 16:19:38 -0700
+Processing by PagesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mPage Load (0.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+Compiled ace/ace.js  (4ms)  (pid 25973)
+Compiled aced-rails.js  (142ms)  (pid 25973)
+  Rendered pages/_form.html.erb (3.4ms)
+  Rendered pages/edit.html.erb within layouts/application (228.5ms)
+Completed 200 OK in 246ms (Views: 244.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 16:19:39 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ace/theme-dawn.js" for 127.0.0.1 at 2013-03-14 16:19:39 -0700
+Served asset /ace/theme-dawn.js - 200 OK (8ms)
