@@ -19,13 +19,12 @@ Added Centered Divs
 Added Password with ENV Variable
 Added Ace Editor
 Removed Extra Flash Notice
-
+Added Back Button to Show
 
 - Add GFM TaskList support
-- Add Back button back to show
 - Add Parent Pages
 - Add Custom Name to App
-
+- Add JSBookmarklet 
 
 - Set rails defaults to no sccss, no coffe, and postgres
 - Move over content from evernote nad backpack
