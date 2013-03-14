@@ -1,6 +1,5 @@
 class PagesController < ApplicationController
-  before_filter  puts "PASSWORD #{ENV['ADMIN_PASS']}"
-  
+
   before_filter http_basic_authenticate_with :name => "steve", :password => ENV['ADMIN_PASS']
 
 
