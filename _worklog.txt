@@ -15,16 +15,18 @@ Added Link to Home in Navbar
 Added New Welcome Page Functionality
 Added Centered Divs
 
-
+3/13
 Added Password with ENV Variable
+Added Ace Editor
+Removed Extra Flash Notice
 
-- Add Password Lock
 
-- Add ACE Text Editor
 - Add GFM TaskList support
 - Add Back button back to show
 - Add Parent Pages
 - Add Custom Name to App
+
+
 - Set rails defaults to no sccss, no coffe, and postgres
 - Move over content from evernote nad backpack
 - Add bike to pinger

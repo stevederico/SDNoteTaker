@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    aced_rails (0.2.0)
+      rails (~> 3.2)
     actionmailer (3.2.9)
       actionpack (= 3.2.9)
       mail (~> 2.4.4)
@@ -125,6 +127,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  aced_rails
   coffee-rails (~> 3.2.1)
   heroku
   jquery-rails

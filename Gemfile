@@ -9,6 +9,7 @@ gem 'pg'
 gem 'redcarpet'
 gem 'heroku'
 gem 'twitter-bootstrap-rails'
+gem 'aced_rails'
 
 # Gems used only for assets and not required
 # in production environments by default.
