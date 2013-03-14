@@ -37168,3 +37168,40 @@ Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
 
 Started GET "/assets/ace/theme-dawn.js" for 127.0.0.1 at 2013-03-14 16:19:39 -0700
 Served asset /ace/theme-dawn.js - 200 OK (8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-14 16:25:45 -0700
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.2ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 21ms (Views: 18.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 16:25:45 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-14 16:25:57 -0700
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  Rendered pages/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 16:25:57 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3/edit" for 127.0.0.1 at 2013-03-14 16:25:58 -0700
+Processing by PagesController#edit as HTML
+  Parameters: {"id"=>"3"}
+  [1m[35mPage Load (0.2ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "3"]]
+  Rendered pages/_form.html.erb (2.2ms)
+  Rendered pages/edit.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 67ms (Views: 66.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-14 16:25:58 -0700
+Served asset /twitter-bootstrap-static/fontawesome.css - 304 Not Modified (0ms)
