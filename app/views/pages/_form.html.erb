@@ -1,4 +1,11 @@
+<script type = "javascript">
+$(document).ready(function(){
 
+
+   $(".acey").acedInitTA({theme: 'dawn', mode: 'markdown'});
+
+ });
+ </script>
 
 <%= form_for(@page) do |f| %>
   <% if @page.errors.any? %>
@@ -17,7 +24,7 @@
   </div>
 
   <div class="field"  >
-    <%= f.text_area :content, :placeholder => "Content", :class => "acey" %>
+    <%= f.text_area :content, :placeholder => "Content", :class => "acey", :style => "width:600px;" %>
   </div>
 </br>
 
