@@ -18376,3 +18376,500 @@ Served asset /bootstrap.js - 304 Not Modified (0ms)
 
 Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-03 22:54:10 -0800
 Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 65ms (Views: 62.4ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter-bootstrap-static/bootstrap.css - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter-bootstrap-static/fontawesome.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-04 10:37:38 -0800
+Served asset /twitter/bootstrap/bootstrap-affix.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 11:44:58 -0800
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.7ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 17ms (Views: 13.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter-bootstrap-static/bootstrap.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter-bootstrap-static/fontawesome.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /twitter/bootstrap/bootstrap-affix.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 11:44:59 -0800
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 12:58:31 -0800
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.4ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.3ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 14ms (Views: 12.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.css?body=1" for 127.0.0.1 at 2013-03-04 12:58:31 -0800
+Served asset /twitter-bootstrap-static/fontawesome.css - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 12:58:31 -0800
+Served asset /bootstrap_and_overrides.css - 200 OK (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 12:58:31 -0800
+Served asset /scaffolds.css - 200 OK (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-03-04 12:58:31 -0800
+Served asset /pages.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.css?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter-bootstrap-static/bootstrap.css - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap.js - 200 OK (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /pages.js - 200 OK (0ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-03-04 12:58:32 -0800
+Served asset /twitter/bootstrap/bootstrap-affix.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 14:00:12 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 14:00:13 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 14:00:13 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 14:00:15 -0800
+Processing by PagesController#index as HTML
+  [1m[36mPage Load (0.3ms)[0m  [1mSELECT "pages".* FROM "pages" [0m
+  [1m[35mPage Load (0.4ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1
+  Rendered pages/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 41ms (Views: 23.5ms | ActiveRecord: 4.9ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:15 -0800
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:15 -0800
+Served asset /scaffolds.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:15 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:15 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:15 -0800
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-04 14:00:17 -0800
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mPage Load (0.2ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  Rendered pages/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 45ms (Views: 43.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:17 -0800
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:17 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:17 -0800
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:17 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:17 -0800
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 14:00:19 -0800
+Processing by PagesController#index as HTML
+  [1m[35mPage Load (13.0ms)[0m  SELECT "pages".* FROM "pages" 
+  [1m[36mPage Load (1.4ms)[0m  [1mSELECT "pages".* FROM "pages" WHERE "pages"."title" = 'Welcome' LIMIT 1[0m
+  Rendered pages/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 130ms (Views: 114.0ms | ActiveRecord: 14.4ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:19 -0800
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:19 -0800
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:19 -0800
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:19 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:19 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/pages/1" for 127.0.0.1 at 2013-03-04 14:00:20 -0800
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPage Load (0.5ms)[0m  SELECT "pages".* FROM "pages" WHERE "pages"."id" = $1 LIMIT 1  [["id", "1"]]
+  Rendered pages/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 43ms (Views: 39.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:21 -0800
+Served asset /bootstrap_and_overrides.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2013-03-04 14:00:21 -0800
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:21 -0800
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:21 -0800
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-03-04 14:00:21 -0800
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 19:00:40 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 19:00:40 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 20:06:15 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 20:06:15 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 21:06:45 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 21:06:45 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 22:28:57 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 22:28:57 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/3" for 127.0.0.1 at 2013-03-04 22:57:36 -0800
+Processing by PagesController#show as HTML
+  Parameters: {"id"=>"3"}
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 23:31:30 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-03-04 23:31:30 -0800
+Processing by PagesController#index as HTML
+Filter chain halted as :authenticate rendered or redirected
+Completed 401 Unauthorized in 0ms (ActiveRecord: 0.0ms)

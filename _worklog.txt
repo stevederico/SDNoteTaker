@@ -15,6 +15,11 @@ Added Link to Home in Navbar
 Added New Welcome Page Functionality
 Added Centered Divs
 
+
+Added Password with ENV Variable
+
+- Add Password Lock
+
 - Add ACE Text Editor
 - Add GFM TaskList support
 - Add Back button back to show
@@ -30,4 +35,6 @@ Maybe
 - AFIncremental Syncing?
 - Horizontal layout?
 - edit in same page?
+
+
 
