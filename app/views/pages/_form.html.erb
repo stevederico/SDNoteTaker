@@ -30,6 +30,9 @@ $(document).ready(function(){
 
  
   <div class="actions">
-    <%= f.submit "Update", class: "btn btn-success" %>
+    <%= f.submit "Update", class: "btn btn-success" %> | <%= link_to 'Show', @page, class: "btn btn-primary" %> |
+    <%= link_to 'Destroy', @page, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-danger"  %> 
   </div>
+
 <% end %>
+
