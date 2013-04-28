@@ -25,20 +25,19 @@ Added Back Button to Show
 Added ENV Password and USername
 Cleaned Up Buttons
 Added ENV['TITLE']
-
-- Make Editor Bigger
-
+Made Editor Bigger
 
 
-- Add GFM TaskList support
+
+
+
 - Add Parent Pages
-- Add Custom Name to App
-- Add JSBookmarklet 
+- Add JSBookmarklet
+- Add GFM TaskList support 
 
-- Set rails defaults to no sccss, no coffe, and postgres
 - Move over content from evernote nad backpack
 - Add bike to pinger
-- change rails defaults to postgres
+
 
 Maybe
 - iPhone app?
@@ -46,5 +45,8 @@ Maybe
 - Horizontal layout?
 - edit in same page?
 
+DEFAULTS
+- change rails defaults to postgres
+- Set rails defaults to no sccss, no coffe, and postgres
 
 
