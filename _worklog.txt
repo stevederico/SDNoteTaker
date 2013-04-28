@@ -21,6 +21,9 @@ Added Ace Editor
 Removed Extra Flash Notice
 Added Back Button to Show
 
+4/28
+Added ENV Password and USername
+
 - Add GFM TaskList support
 - Add Parent Pages
 - Add Custom Name to App
