@@ -23,6 +23,12 @@ Added Back Button to Show
 
 4/28
 Added ENV Password and USername
+Cleaned Up Buttons
+Added ENV['TITLE']
+
+- Make Editor Bigger
+
+
 
 - Add GFM TaskList support
 - Add Parent Pages

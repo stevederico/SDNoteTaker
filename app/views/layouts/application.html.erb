@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Notetaker</title>
+  <title><%= ENV['TITLE'] %> </title>
 
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
@@ -18,9 +18,9 @@
       </a>
  
       <!-- Be sure to leave the brand out there if you want it shown -->
-      <a class="brand" href="/">Notetaker</a>
+      <a class="brand" href="/"><%= ENV['TITLE'] %></a>
       <div class="pull-right">
-      	<%= link_to 'New Page', new_page_path, class: "btn btn-success" %>
+
       </div>
  
       <!-- Everything you want hidden at 940px or less, place within here -->
